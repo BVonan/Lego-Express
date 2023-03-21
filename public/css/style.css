@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+div{
+    background-color: (100,100,100,7);
+    color: white;
+    width:65%;
+    margin:0 auto;
+}
